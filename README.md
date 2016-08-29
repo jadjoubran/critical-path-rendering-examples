@@ -1,1 +1,2 @@
-# critical-path-rendering-examples
+# Critical Path Rendering examples
+
