@@ -1,9 +1,3 @@
-var link = document.createElement("link");
-link.href = "app.css";
-link.type = "text/css";
-link.rel = "stylesheet";
-document.body.appendChild(link);
-
 /*eslint-disable no-unused-vars*/
 /*!
  * jQuery JavaScript Library v3.1.0
